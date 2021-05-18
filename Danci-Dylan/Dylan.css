@@ -1,0 +1,13 @@
+#preview .content {
+    padding: 2em 1em;
+}
+
+    #preview .content h2 {
+        font-size: 2.5em;
+        color: #202020;
+    }
+
+    #preview .content h1 {
+        font-size: 2.0em;
+        color: #202020;
+    }
